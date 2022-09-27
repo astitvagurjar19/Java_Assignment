@@ -26,7 +26,7 @@ public class Question3 {
     static void calculateCircumference() {
         System.out.println("Enter radius: ");
         radius = sc.nextInt();
-        System.out.println("Area of Circle : " + 2 * 3.14 * radius);
+        System.out.println("Circumference of Circle : " + 2 * 3.14 * radius);
     }
 
     public static void main(String args[]) {
